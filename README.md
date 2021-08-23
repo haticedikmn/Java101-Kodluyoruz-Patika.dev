@@ -22,6 +22,8 @@ Armut : 2,14 TL,Elma : 3,67 TL,Domates : 1,11 TL,Muz: 0,95 TL,Patlıcan : 5,00 T
 
 8-hesapMakinesi_örneği=Java koşullu ifadeler ile basit hesap makinesi yapımı.
 
+9-kullaniciGİRİS_örneği:Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan program.
+
 
 
 
