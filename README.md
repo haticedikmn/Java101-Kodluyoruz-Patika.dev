@@ -24,6 +24,9 @@ Armut : 2,14 TL,Elma : 3,67 TL,Domates : 1,11 TL,Muz: 0,95 TL,Patlıcan : 5,00 T
 
 9-kullaniciGİRİS_örneği:Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun, eğer kullanıcı sıfırlamak isterse yeni girdiği şifrenin hatalı girdiği ve unuttuğu şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." sorun yoksa "Şifre oluşturuldu" yazan program.
 
+10-havaSicakliği_örneği=Java koşullu ifadeler ile hava sıcaklığına göre etkinlik öneren program yapımı.
+Koşullar :Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner.Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
+
 
 
 
