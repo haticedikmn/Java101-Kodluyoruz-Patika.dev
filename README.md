@@ -27,6 +27,10 @@ Armut : 2,14 TL,Elma : 3,67 TL,Domates : 1,11 TL,Muz: 0,95 TL,Patlıcan : 5,00 T
 10-havaSicakliği_örneği=Java koşullu ifadeler ile hava sıcaklığına göre etkinlik öneren program yapımı.
 Koşullar :Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.Sıcaklık 5 ve 15 arasında ise "Sinema" etkinliğini öner.Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 
+11-sayiSirala_örneği=Java koşullu ifadeler ile girilen 3 sayıyı büyükten küçüğe sıralayan program yapımı.
+
+
+
 
 
 
