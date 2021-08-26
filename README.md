@@ -29,6 +29,8 @@ Koşullar :Sıcaklık 5'dan küçük ise "Kayak" yapmayı öner.Sıcaklık 5 ve 
 
 11-sayiSirala_örneği=Java koşullu ifadeler ile girilen 3 sayıyı büyükten küçüğe sıralayan program yapımı.
 
+12-burcBulma_örneği=Java koşullu ifadeler ile kullanıcının burcunu bulan program yapımı.
+
 
 
 
